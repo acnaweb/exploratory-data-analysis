@@ -1,10 +1,4 @@
-# Python
+# Exploratory Data Analysis
 
-Template for Python repository
+Exploratory Data Analysis using Python 
 
-
-## References
-
-- https://superuser.com/questions/816143/how-to-run-pip-in-non-interactive-mode
-- https://docs.pytest.org/en/stable/reference/customize.html
-- https://www.activestate.com/resources/quick-reads/how-to-manually-install-python-packages/
